@@ -115,7 +115,7 @@
 		</div>
 		
 		<footer class="bottom">
-            <a href="www.thoughtscloud.net">Website</a>
+            <a href="https://twitter.com/iFahimH">Website</a>
             <a href="https://www.youtube.com/channel/UCs-pkB03EYv8vg0luwupfCQ">Youtube</a>
             <p>Copyright &copy; Fahim Hassan 2021</p>
         </footer>
