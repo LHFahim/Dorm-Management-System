@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    /* background-color: rgb(146, 196, 113); */
+    /* background-color: #E2EEFC; */
+    background-color: whitesmoke;
+    
+}
+
+.container{
+ 
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+    
+    max-width: 1000px;
+
+    
+    
+}
+
+.one{
+    background-color: #2D88FF;
+    /* margin-top: 20px;
+    margin-bottom: 25px; */
+
+    
+
+    margin: 0 auto;
+    width: 400%;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    padding: 20px;
+    max-width: 500px;
+    justify-content: center;
+
+    border-radius: 80px;
+
+    color: #FFFFFF;
+	font-size: large;
+
+    box-shadow: 0 0 20px rgb(174, 236, 60);
+    transition: 0.3s;
+}
+
+.two{
+    text-align: center;
+    margin-top: 5px;
+    font-family: 'Ubuntu', sans-serif;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    transition: 0.5s;
+}
+
+table{
+    border: 2px solid white;
+   	border-collapse: collapse;
+}
+
+td{
+	
+    padding: 15px;
+}
+
+th{
+    border-bottom: 1px solid black;
+    padding: 10px;
+    background:none repeat scroll 0 0 #0775d3;
+	color: #FFFFFF;
+	font-size: large;
+}
+
+
+
+tr:nth-child(even){
+    background-color: whitesmoke;
+} 
+
+tr:nth-child(odd){
+    background-color: whitesmoke;
+}
+
+tr:hover{
+    background-color: #E2EEFC;
+}
+
+.upde a{
+    text-decoration: none;
+    color: black;
+    margin: 20px;
+    font-weight: bold;
+}
+
+.bottom{
+    background-color: black;
+    text-align: center;
+    padding: 10px; /* 10px */
+    color: white;
+    margin-top: 110px; /* 180px */
+}
+
+.bottom a{
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+}
